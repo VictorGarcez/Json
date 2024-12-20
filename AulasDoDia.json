@@ -1,0 +1,77 @@
+[
+  {
+    "Horario": "09:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "10:00",
+    "Nome": "Grupo Victor",
+    "Local": "Quadra 1"
+  },
+  {
+    "Horario": "11:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "12:00",
+    "Nome": "Grupo Bruno",
+    "Local": "Praia C2"
+  },
+  {
+    "Horario": "13:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "14:00",
+    "Nome": "Grupo André",
+    "Local": ""
+  },
+  {
+    "Horario": "15:00",
+    "Nome": "Grupo Fabiana",
+    "Local": ""
+  },
+  {
+    "Horario": "16:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "17:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "18:00",
+    "Nome": "Grupo Roberto",
+    "Local": "Quadra 2"
+  },
+  {
+    "Horario": "19:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "20:00",
+    "Nome": "Grupo Thiago",
+    "Local": "Quadra 3"
+  },
+  {
+    "Horario": "21:00",
+    "Nome": "Grupo Adilson",
+    "Local": "Quadra 4"
+  },
+  {
+    "Horario": "22:00",
+    "Nome": "",
+    "Local": ""
+  },
+  {
+    "Horario": "23:00",
+    "Nome": "",
+    "Local": ""
+  }
+]
